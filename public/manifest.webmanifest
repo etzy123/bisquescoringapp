@@ -1,0 +1,29 @@
+{
+  "name": "Bisque Golf App",
+  "short_name": "Bisque Golf",
+  "description": "Live golfscores met handicapverrekening en meerdere spelvormen",
+  "lang": "nl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0F2A1D",
+  "theme_color": "#0F2A1D",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
